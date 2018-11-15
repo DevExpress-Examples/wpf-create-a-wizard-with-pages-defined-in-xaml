@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/WizardControlExample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WizardControlExample/MainWindow.xaml.vb))**
+* [MainWindow.xaml.cs](./CS/WizardControlExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WizardControlExample/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to: Create a Wizard with pages defined in XAML
 
 
