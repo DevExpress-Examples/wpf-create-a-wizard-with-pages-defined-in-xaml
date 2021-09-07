@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizardControlExample", "WizardControlExample\WizardControlExample.csproj", "{F9B11850-1A22-4C8A-BE71-8CC1A4D8C4E4}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizardControlExample", "WizardControlExample\WizardControlExample.Net5.csproj", "{F9B11850-1A22-4C8A-BE71-8CC1A4D8C4E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
