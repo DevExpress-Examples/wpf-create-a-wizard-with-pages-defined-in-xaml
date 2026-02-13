@@ -41,7 +41,7 @@ These pages have the same functionality, and only their button and content regio
 * [How to: Create a wizard based on a collection of view models](https://github.com/DevExpress-Examples/how-to-create-a-wizard-based-on-a-collection-of-view-models-t415475)  
 * [How to: Use the WizardService](https://github.com/DevExpress-Examples/how-to-use-the-wizardservice-t387258)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-create-a-wizard-with-pages-defined-in-xaml&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-create-a-wizard-with-pages-defined-in-xaml&~~~was_helpful=no)
 
